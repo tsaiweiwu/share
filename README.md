@@ -8,9 +8,6 @@
 
 - Academica license is free
 
-- [gurobi.com](https://gurobi.com)  
-  
-  wu979@purdue.edu / puqUfreb9yu7&
 
 -  Click on the INSTALL button 
       
